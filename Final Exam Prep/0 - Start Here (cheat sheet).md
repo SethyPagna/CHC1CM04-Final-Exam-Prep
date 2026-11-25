@@ -40,7 +40,7 @@
 
 **Not tested:** the PowerPoint filed under Week 9 ("Socialist Nation-Building II": socialist landscape painting, Li Xiongcai, Guan Shanyue, *Meals Are Free to All*, Qian Songyan, Song Wenzhi). She said so in three separate lectures. The talk she actually gave in Week 9 finished the **Week 8** slides, and that is tested.
 
-**Gap to fix:** the Week 8 PowerPoint is not in your course folder. The Week 8 notes come from your 30 October recording (the second half of the slides, in full) and her short recap of the first half. Download "Week 8" from Canvas → Modules and read the first half of the slides yourself: the Week 8 notes say exactly which part is thin.
+**Week 8 slides:** now in `Week 8/Week 8 Art and Socialist Nation-Building I.pdf`. The Week 8 notes cover all 48 tested slides, including the first half (Marx, New Year's pictures, the early Sino-Soviet posters, *Zhao Guilan at the Heroes Reception*).
 
 ## How she writes questions
 
@@ -90,11 +90,16 @@ She described two difficulty levels: "historical and factual" (dates, who, where
 | 1929 | First National Art Exhibition (Shanghai) | 3, 6 |
 | 1931–35 | Storm Society | 6 |
 | 1930s | Modern Woodcut Movement (Lu Xun) | 6 |
+| 1934–1980s | Socialist realism in the Soviet Union and other socialist countries | 8 |
 | 1935 | *In Search of the Southeast* published (Southeast Scenic Tour) | 4 |
 | 1937–45 | Second Sino-Japanese War; Nanjing Massacre Dec 1937–Jan 1938 | 7 |
 | 1942 | Mao's Yan'an Talks: art serves politics | 8 |
-| 1949 | PRC founded, 1 October | 8 |
-| 1953 | Socialist realism enforced across China by the state | 8 |
+| 1945–49 | Chinese Civil War (Nationalists vs Communists) | 8 |
+| 1949 | PRC founded, 1 October; Nationalists retreat to Taiwan | 8 |
+| 1952 | Lin Gang, *Zhao Guilan at the Heroes Reception* (New Year's picture) | 8 |
+| 1952–53 | Dong Xiwen, *Inaugural Ceremony for the New Nation* | 8 |
+| 1953 | Socialist realism adopted wholesale in the PRC | 8 |
+| 1954–66 | Millions of propaganda posters printed | 8 |
 | 1954–55 | Gao Gang purged | 8, 10 |
 | 1957 | Zhang Ding, and Zhang Hongtu's father, labelled Rightists | 11, 12 |
 | 1958–60 | **Great Leap Forward** → famine | 8, 10 |
@@ -122,6 +127,7 @@ She described two difficulty levels: "historical and factual" (dates, who, where
 | **Huang Junbi vs Jiang Zhaohe vs Zhang Shuqi** | Huang: *Bombing of Chongqing*, landscape as reportage (Nationalist area) | Jiang: *Refugees*, ink + European realism (Japanese-occupied Beijing). Zhang: *Messengers of World Peace*, diplomatic gift to USA |
 | **Zhang Daqian vs Zhang Ding** | Copied 276 Dunhuang murals, 1941–43 | 1979 *Nezha* airport mural in a Dunhuang-derived decorative style |
 | **Realism vs socialist realism vs New Realism** | Realism: believable representation (Kang, Xu) | Socialist realism: realistic *and idealised*, proletarian, typical, serves the state. New Realism / Scar Art: realistic and *unidealised* hardship (post-Mao) |
+| **Nianhua vs xuanchuanhua** | New Year's picture: folk, secular, bought by rural families at the new year; given revolutionary themes after 1949 | Propaganda poster: learned from the Soviet Union; image + political slogan; millions printed 1954–66 |
 | **Propaganda poster vs dazibao** | Printed image + slogan; medium from the Soviet Union | Handwritten big characters; attacks named enemies; Cultural Revolution |
 | **Gao Gang vs Liu Shaoqi** | Purged 1954–55; erased first from *Founding Ceremony* | Purged 1967; "Chinese Khrushchev"; erased in the 1967 third version; later restored |
 | **Official vs unofficial art (1979)** | State-commissioned: Beijing airport murals (Zhang Ding, Yuan Yunsheng) | Not state-approved: Stars Group (Wang Keping) |
@@ -156,7 +162,10 @@ She described two difficulty levels: "historical and factual" (dates, who, where
 - **Chiaroscuro** — contrast of light and dark to model form.
 - **Avant-garde** — "front guard": iconoclastic, individualistic, self-expressive, idealistic.
 - **Zeitgeist** — the spirit of an era.
-- **Politics in command** — art must serve political purposes (Yan'an 1942; nationwide after 1949).
+- **Nation-building** — a coordinated political, social and institutional project to create or rebuild a cohesive nation-state.
+- **Politics in command** — art for politics' sake (Yan'an 1942; nationwide after 1949); "art for art's sake" denounced and terminated.
+- **Nianhua** — New Year's picture: folk, secular prints bought by families to decorate homes at the new year.
+- **Xuanchuanhua** — propaganda picture/poster: images + political slogan, learned from the Soviet Union.
 - **Socialist realism** — an ideological guidance (not just a style): realistic, proletarian subjects, typical scenes, idealistic; to exemplify, educate, instil hope.
 - **Sinicization** — making an imported medium (oil painting) look and feel Chinese.
 - **Iconography** — identifying figures by their features, clothing and associated motifs.
