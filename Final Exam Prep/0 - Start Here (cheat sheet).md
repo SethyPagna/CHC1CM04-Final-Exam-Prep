@@ -9,10 +9,19 @@
 
 | File | Use it for |
 |---|---|
-| `0 - Start Here (cheat sheet).md` | This page: scope, priorities, timeline, people, lookalike pairs |
-| `1 - Study Guide, Weeks 2-7.md` | Full notes: late Qing to wartime |
-| `2 - Study Guide, Weeks 8-12.md` | Full notes: Mao era to globalization |
-| `3 - Mock Exam (60 + 30 questions).md` | A full-length timed paper in her format, plus 30 harder questions, with explained answers |
+| `0 - Start Here (cheat sheet).md` | This page: scope, priorities, timeline, lookalike pairs, glossary |
+| `Lecture notes/` (10 files, one per tested lecture) | The in-depth notes. Read these first |
+| `1 - Mock Exam (60 + 30 questions).md` | A full-length timed paper in her format, plus 30 harder questions, with explained answers |
+
+**How each lecture file is laid out**
+
+1. **The lecture in one minute** — the whole lecture as a few bullets and one table.
+2. **Words you need** — every term, with the slide's wording and a plain-English meaning.
+3. **Parts**, in slide order. Slide wording is in "quotation marks". **In plain words** is my simple explanation. **She said** is what the lecturer added in the recording. ★ = important, ★★ = very likely to be tested.
+4. **Easy to mix up** — the pairs her wrong answers are built from.
+5. **Test yourself** — short questions with answers underneath.
+
+**What the notes are built from.** Every lecture file comes from a slide-by-slide record of the PowerPoint, pictures included (who is compared with whom, what is circled, text inside images). Weeks 8, 10, 11 and 12 also use your recordings. Nothing from outside the tested slides and her lectures is included: no tutorial readings, no Week 9 PowerPoint, no term-paper or citation slides.
 
 ## Scope: the 10 tested lectures
 
@@ -31,9 +40,7 @@
 
 **Not tested:** the PowerPoint filed under Week 9 ("Socialist Nation-Building II": socialist landscape painting, Li Xiongcai, Guan Shanyue, *Meals Are Free to All*, Qian Songyan, Song Wenzhi). She said so in three separate lectures. The talk she actually gave in Week 9 finished the **Week 8** slides, and that is tested.
 
-**Gap to fix:** the Week 8 PowerPoint is not in your course folder. My Week 8 notes come from your Week 9 transcript (second half of the slides, in full) and her recap of the first half. Download "Week 8" from Canvas → Modules and skim the first half (New Year pictures, early propaganda posters, land reform) against my notes.
-
-**Where the notes come from:** Weeks 2–7 are built from the slide text only (no transcript). Weeks 8–12 use slides plus your transcripts, so they carry more of what she said aloud.
+**Gap to fix:** the Week 8 PowerPoint is not in your course folder. The Week 8 notes come from your 30 October recording (the second half of the slides, in full) and her short recap of the first half. Download "Week 8" from Canvas → Modules and read the first half of the slides yourself: the Week 8 notes say exactly which part is thin.
 
 ## How she writes questions
 
@@ -60,7 +67,7 @@ She described two difficulty levels: "historical and factual" (dates, who, where
 
 1. Lookalike pairs (below).
 2. Socialist realism: 4 principles + 3 functions (Week 8).
-3. Each lecture's "Conclusion" slide — she builds questions from these. They are quoted in the study guides.
+3. Each lecture's "Conclusion" slide — she builds questions from these. They are quoted in full in each lecture file.
 4. Mock exam, timed.
 
 ## Master timeline
@@ -83,12 +90,13 @@ She described two difficulty levels: "historical and factual" (dates, who, where
 | 1929 | First National Art Exhibition (Shanghai) | 3, 6 |
 | 1931–35 | Storm Society | 6 |
 | 1930s | Modern Woodcut Movement (Lu Xun) | 6 |
-| 1934–35 | Southeast Scenic Tour paintings (1934) → *In Search of the Southeast* published (1935) | 4 |
+| 1935 | *In Search of the Southeast* published (Southeast Scenic Tour) | 4 |
 | 1937–45 | Second Sino-Japanese War; Nanjing Massacre Dec 1937–Jan 1938 | 7 |
 | 1942 | Mao's Yan'an Talks: art serves politics | 8 |
 | 1949 | PRC founded, 1 October | 8 |
-| 1953 | Socialist realism comprehensively introduced to China | 8 |
-| 1957 | Anti-Rightist Campaign | 8, 11, 12 |
+| 1953 | Socialist realism enforced across China by the state | 8 |
+| 1954–55 | Gao Gang purged | 8, 10 |
+| 1957 | Zhang Ding, and Zhang Hongtu's father, labelled Rightists | 11, 12 |
 | 1958–60 | **Great Leap Forward** → famine | 8, 10 |
 | 1962–65 | Liu Shaoqi / Zhou Enlai moderate policies; economy recovers | 10 |
 | 1966–76 | **Cultural Revolution** | 10 |
